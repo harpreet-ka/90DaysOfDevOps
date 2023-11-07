@@ -1,5 +1,5 @@
 Day 3 Task: Basic Linux Commands
-
+{done}
 Task: What is the linux command to
 
 1. To view what's written in a file.
